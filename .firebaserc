@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "my-todo-app-1ee3e": {
+      "hosting": {
+        "My-todo": [
+          "my-todo-app-1ee3e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "my-todo-app-1ee3e"
+  }
+}
